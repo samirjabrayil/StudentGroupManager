@@ -1,0 +1,40 @@
+.content {
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 40%;
+  text-align: center;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  border-radius: 10px;
+  background: #ee0979;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ff6a00, #ee0979);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.content h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.content h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+.content button {
+  background-color: rgb(0, 255, 170);
+  color: white;
+  font-size: 14px;
+  outline: none;
+  border: 1px solid;
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: palevioletred;
+}
+.content input {
+  outline: white;
+  width: 200px;
+  height: 30px;
+  border-radius: 8px;
+  border-color: #ffc6e2;
+  border: 1px;
+}/*# sourceMappingURL=style.css.map */
